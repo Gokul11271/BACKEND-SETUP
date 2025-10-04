@@ -181,8 +181,8 @@ http://localhost:5000/api/your-route
 ## Author
 
 * **Your Name**
-* GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-* Email: [youremail@example.com](mailto:youremail@example.com)
+* GitHub: [YourGitHubUsername](https://github.com/gokul11271)
+* Email: [youremail@example.com](mailto:erodegokul123@example.com)
 
 ---
 
